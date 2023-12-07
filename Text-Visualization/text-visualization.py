@@ -17,7 +17,8 @@ tf.sort_values("tf", ascending=False)
 ###############################
 # Barplot
 ###############################
-
+import matplotlib
+matplotlib.use('TkAgg')
 tf[tf["tf"] > 500].plot.bar(x="words", y="tf")
 plt.show()
 

@@ -56,7 +56,7 @@ Duygu analizi, sosyal medya içerikleri, ürün incelemeleri, müşteri geri bil
 Öznitelik mühendisliği, makine öğrenimi modellerinin daha iyi performans göstermesi ve daha iyi sonuçlar üretmesi için önemlidir. Doğru özniteliklerin seçilmesi veya oluşturulması, modelin doğruluğunu ve genelleme yeteneğini artırabilir.
 ***
 
-# Sentiment-Modeling
+# Sentiment-Modeling (Duygu Analizi Modelleme) Nedir?
 Sentiment Modeling, duygusal ifadelerin analizi ve sınıflandırılması için kullanılan bir makine öğrenimi yöntemidir. Bu modelleme türü, metin veya veri setlerindeki duygusal içerikleri tespit etmek ve genellikle pozitif, negatif veya nötr olarak sınıflandırmak amacıyla kullanılır.
 
 Örneğin, sosyal medya verileri, müşteri yorumları veya anket cevapları gibi metin verilerinde hangi ifadelerin olumlu, olumsuz veya tarafsız olduğunu belirlemek için sentiment modeling kullanılabilir. Bu modeller genellikle doğal dil işleme (NLP) teknikleriyle birlikte kullanılarak duygusal ifadeleri anlamak ve sınıflandırmak için eğitilir.

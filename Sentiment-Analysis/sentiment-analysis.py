@@ -19,3 +19,8 @@ df["reviewText"][0:10].apply(lambda x: sia.polarity_scores(x))
 df["reviewText"][0:10].apply(lambda x: sia.polarity_scores(x)["compound"])
 
 df["polarity_score"] = df["reviewText"].apply(lambda x: sia.polarity_scores(x)["compound"])
+
+
+
+
+
